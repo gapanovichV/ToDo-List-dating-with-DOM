@@ -1,3 +1,3 @@
 # ToDo-List Dating with DOM
 
-Первое написание ToDo List на ванильном js
+Первое самостоятельное написание ToDo List на ванильном js
